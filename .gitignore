@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+.initiated
+.VSCodeCounter
+
+/build
+/out
+/dist
+/transformer/build
+/transformer/out
